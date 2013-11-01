@@ -1,7 +1,7 @@
 afriTracker
 ===========
 
-a records search portal and management system
+a records search portal ,tracking and management system
  The Latest Version
   ------------------
 details of latest version can be found at
